@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crossplatform C++ GUI options"
+title: "Crossplatform GUI options - part 1"
 date: 2017-07-27
 categories: gui crossplatform
 ---
@@ -23,8 +23,5 @@ Look at that beautiful consistency. But it's a god damn webpage. Now think if we
 
 ## Other langauges?
 
-I've been loving using scala recently. 
-
-
-
+I'm gonna dive quite a bit deeper into what options we have with other languages. And finally on what we can do with C++. Till next time. 
 
