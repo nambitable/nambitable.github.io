@@ -15,6 +15,12 @@ One of the first things you run across is web based solutions. Most of them are 
 You could use an easy to use and deploy solution someone has already built, like [Electron](https://electron.atom.io/). Wow, look at that list of applications built with Electron. People writing code meant for browsers to fool people into thinking they're using native applications. 
 Sure, I'll concede it's dead simple to get started. I'll concede that some of the apps come out looking beautiful. Because people can make beautiful websites. But ultimately you end up with a bunch of similar looking apps that use nice gimicks to fake the user into thinking it's a native application with the same types of limitations. Haven't you ever noticed why clicking abutton on these 'applications' takes just a smidge longer than necessary, as if you're loading a webpage? I mean they are, and that's the point. They can hide behind transition animations all they want, but it's never snappy enough.
 
+And here's a really sweet image showcasing the power of these web solutions:
+
+![webyucky](http://excelonwebsolutions.com/img/cwaService_opt830.png)
+
+Look at that beautiful consistency. But it's a god damn webpage. Now think if we could achieve the same thing with native applications? We can do it with games, why not applications?
+
 ## Other langauges?
 
 I've been loving using scala recently. 
